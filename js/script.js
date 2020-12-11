@@ -46,7 +46,7 @@ if (body.offsetWidth <= 991) {
       podarok_categori.classList.add('opend');
       podarok_menu1.style.left = '-102%'
 
-      header_menuBox.style.height = '900px';
+      header_menuBox.style.height = '1003px';
     });
   };
 

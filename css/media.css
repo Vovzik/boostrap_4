@@ -29,6 +29,11 @@
 
 @media (max-width: 991px) {
 
+  .podarok_categoriList, 
+  .podarok_categoriList1 {
+    width: 100%;
+  }
+
   .podarok_categoriTitle_1 {
     padding-top: 36px;
   }
@@ -179,6 +184,7 @@
 
 
 @media (max-width: 767px) {
+  
   .podarok_itemsflex {
     max-width: 412px;
     margin: 0 auto;
@@ -254,6 +260,14 @@
 }
 
 
+@media (max-width: 605px) {
+  .slick-slider {
+    height: 246px;
+}
+}
+
+
+
 @media (max-width: 578px) {
 
   .catalog_block_3 {
@@ -291,6 +305,10 @@
 }
 
 @media (max-width: 498px) {
+
+  .slick-slider {
+    height: 201px;
+}
 
   .news_block-btn {
     padding: 8px 40px 9px 40px;
@@ -375,6 +393,10 @@
 
 
 @media(max-width: 402px) {
+
+  .slick-slider {
+    height: 168px;
+}
 
   body.mouse .catalog_block-items3:hover .catalog_opend {
     height: 131px;
